@@ -58,4 +58,4 @@ def matches_extra(p: Path, root: Path, patterns: List[str], ignore_depth: Option
 
 def get_project_version() -> str:
     """Returns the current version of the project"""
-    return "0.1.0"
+    return "0.1.2"
